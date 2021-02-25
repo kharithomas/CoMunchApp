@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>483837662255-46e3v700iamtba9f4qclghusfgodsemi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.483837662255-46e3v700iamtba9f4qclghusfgodsemi</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>483837662255-0m9cde1k5v1toi0rhi01761o2p50nojs.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCvqs0LtviKWcV5KOeEd-2M1kHdOSausMU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>483837662255</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.comunch</string>
+	<key>PROJECT_ID</key>
+	<string>rapid-league-291922</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rapid-league-291922.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:483837662255:ios:cb443a22be284635b062da</string>
+	<key>DATABASE_URL</key>
+	<string>https://rapid-league-291922.firebaseio.com</string>
+</dict>
+</plist>
